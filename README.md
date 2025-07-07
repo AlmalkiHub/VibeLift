@@ -19,7 +19,9 @@ VibeLift is a Streamlit-powered web app that generates personalized motivational
 
 ## 📸 Demo Preview
 
-<img src="demo_screenshot.png" alt="VibeLift Demo Screenshot" width="600"/>
+Here’s a glimpse of VibeLift in action:
+
+![VibeLift Demo](Demo.png)
 
 ---
 
@@ -42,7 +44,7 @@ Sometimes we feel low, anxious, or simply need a spark to push through the day. 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/vibelift.git
+   git clone https://github.com/AlmalkiHub/vibelift.git
    cd vibelift
 
 # 2. Install dependencies
@@ -58,6 +60,7 @@ streamlit run app.py
 VibeLift/
 ├── app.py
 ├── motivation_engine.py
+├── prompts.py
 ├── requirements.txt
 ├── openai_key.txt (ignored by git)
 ├── Ali Almalki.JPG
@@ -83,10 +86,10 @@ Built with love by Ali Almalki
 💼 Applying for Vibe Coder @ HUMAIN
 
 # 🌐 Live App
-Coming soon on Streamlit Cloud... 
+(https://vibelift.streamlit.app/)
 
 # 📬 Contact
-For questions or collaboration ideas:
+Looking forward to hearning from you 😁
 📧 alialmalkiuk@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/ali-malki/)
 
 

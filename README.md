@@ -1,6 +1,7 @@
 # 🧠 VibeLift: Recharge Your Mind
 
 🚀 **Try it live now:** [VibeLift on Streamlit](https://vibelift.streamlit.app)
+
 🎥 **Watch Demo Video**: [Click to Watch](https://www.youtube.com/watch?v=bhrzy_e9T_k)
 
 Let an AI coach lift your spirits — in words, sound, and image. ✨

@@ -1,0 +1,22 @@
+# Streamlit secrets
+.env
+openai_key.txt
+
+# OS files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Audio & generated images
+*.mp3
+*.png
+
+# Virtual env
+venv/
+.env/

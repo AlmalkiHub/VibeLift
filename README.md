@@ -1,5 +1,8 @@
 # 🧠 VibeLift: Recharge Your Mind
 
+🚀 **Try it live now:** [VibeLift on Streamlit](https://vibelift.streamlit.app)
+
+
 Let an AI coach lift your spirits — in words, sound, and image. ✨
 
 VibeLift is a Streamlit-powered web app that generates personalized motivational messages based on your current mood, the time of day, and the tone you prefer. It’s your daily boost of clarity, strength, and hope — driven by the power of OpenAI.

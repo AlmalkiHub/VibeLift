@@ -15,8 +15,6 @@ build/
 
 # Audio & generated images
 *.mp3
-*.png
-
 # Virtual env
 venv/
 .env/
